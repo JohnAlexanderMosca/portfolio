@@ -7,8 +7,8 @@ return (
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Hi, I'm John.
-            <br className="hidden lg:inline-block" />I am interested in Tech, Business, and Literature
+            Hi, my name is John Alexander Mosca. I love to learn new things
+            <br className="hidden lg:inline-block" />I studied Economics and Philosophy during my undergrand and am heavily interested in Tech, Business, and Literature. Currently working as a Associate Consultant @Infor learning about Cloud Soltuions.
           </h1>
           <p className="mb-8 leading-relaxed">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
@@ -19,7 +19,7 @@ return (
             <a
               href="#contact"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-              Work With Me
+              Contact Me
             </a>
             <a
               href="#projects"
